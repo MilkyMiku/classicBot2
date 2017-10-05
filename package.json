@@ -1,0 +1,11 @@
+{
+  "name": "classicBot2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:MilkyMiku/classicBot2.git",
+  "author": "Aaron Strong <admin@mooku.me>",
+  "license": "MIT",
+  "dependencies": {
+    "klasa": "^0.3.0"
+  }
+}
